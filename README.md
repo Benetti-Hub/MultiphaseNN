@@ -1,7 +1,7 @@
 # MultiphaseNN
 Simple feed-forward neural network for classification of multiphase flow regimes
 
-If the code is not loading, paste the link at https://nbviewer.jupyter.org/
+If the code is not loading, use this link https://nbviewer.jupyter.org/github/Benetti-Hub/MultiphaseNN/tree/master/
 
 There are a total of 4 script in this repo.
 
