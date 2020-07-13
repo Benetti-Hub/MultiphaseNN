@@ -1,6 +1,8 @@
 # MultiphaseNN
 Simple feed-forward neural network for classification of multiphase flow regimes
 
+If the code is not loading, paste the link at https://nbviewer.jupyter.org/
+
 There are a total of 4 script in this repo.
 
 **Data_preprocessing** deals with the preprocessing of the data, by cleaning it and splitting it into 2 parts (train and test).
